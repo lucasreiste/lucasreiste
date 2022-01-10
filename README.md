@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [O que é design system e porque você precisa de um na sua empresa.](https://medium.com/intelipost/nos-dias-atuais-as-empresas-e-startups-principalmente-da-%C3%A1rea-de-tecnologia-vivem-uma-e8a9da07c5d7?source=rss-e3bc9b7022ce------2)
+- [Iniciando no React Native](https://medium.com/intelipost/iniciando-no-react-native-95f1efe85927?source=rss-e3bc9b7022ce------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
